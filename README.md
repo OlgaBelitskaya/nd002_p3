@@ -14,3 +14,4 @@ https://github.com/OlgaBelitskaya/nd002_p3/blob/master/Data_Analyst_ND_Project3_
 https://github.com/OlgaBelitskaya/nd002_p3/blob/master/sample_dubai_abu-dhabi.osm
 
 ### The python code for osm-json transformation:
+https://github.com/OlgaBelitskaya/nd002_p3/blob/master/osm_json.py
