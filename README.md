@@ -8,6 +8,7 @@ https://github.com/OlgaBelitskaya/nd002_p3/blob/master/Data_Analyst_ND_Project3_
 https://github.com/OlgaBelitskaya/nd002_p3/blob/master/Data_Analyst_ND_Project3_Dubai-AbuDhabi_MongoDB.html
 
 ### The short extraction:
+https://github.com/OlgaBelitskaya/nd002_p3/blob/master/Data_Analyst_ND_Project3_Dubai-AbuDhabi_Extraction_MongoDB.ipynb
 https://github.com/OlgaBelitskaya/nd002_p3/blob/master/Data_Analyst_ND_Project3_Dubai-AbuDhabi_Extraction_MongoDB.html
 
 ### The sample:
