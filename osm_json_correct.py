@@ -70,7 +70,9 @@ def shape_element(element):
                     # Correction of postcodes
                     if tag.attrib['k'] == "addr:postcode":
                         if tag.attrib['v'] in correction.keys():
-                            address[tag.attrib['k'][5:]] = update_name(tag.attrib['v'], correction)                     
+                            address[tag.attrib['k'][5:]] = update_name(tag.attrib['v'], correction) 
+                        else:
+                            address[tag.attrib['k'][5:]] = tag.attrib['v']               
                     else:
                         address[tag.attrib['k'][5:]] = tag.attrib['v']
             else:
